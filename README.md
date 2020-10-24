@@ -65,9 +65,6 @@ expo start
 
 <br/>
 
-<<<<<<< HEAD
-find me on my
-=======
 ### Contact
 
 find me on my <br/>
