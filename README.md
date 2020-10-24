@@ -7,13 +7,8 @@
 
 <br/>
 
-<<<<<<< HEAD
-Replica of the **Airbnb** app done during the **[Le Reacteur](https://www.lereacteur.io/)** bootcamp.
-
-=======
 Replica of the **Airbnb** app done during the **[Le Reacteur](https://www.lereacteur.io/)** bootcamp.<br/>
 Created in **React Native** with the **Expo** package.<br/>
->>>>>>> 385c133e863f509b4d059b406b906ec98cf23951
 6 screens are availables : Login, Signup, Home, Room, Around Me and Profile.
 
 <br/>
@@ -76,6 +71,5 @@ find me on my
 ### Contact
 
 find me on my <br/>
->>>>>>> 385c133e863f509b4d059b406b906ec98cf23951
 <a href="https://www.linkedin.com/in/mathieu-brochot/"><img img width="100"
   src="https://github.com/mBrochot/airbnb-replique/blob/master/preview/linkedIn.png"></a>
